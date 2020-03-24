@@ -68,6 +68,14 @@
 
 - [Create Vue Apps Visually with the Vue CLI User Interface Tool](https://scotch.io/tutorials/creating-vue-apps-with-the-vue-ui-tool)
 
+- [Creating Custom Directives in Vue](https://dev.to/ratracegrad/creating-custom-directives-in-vue-58hh)
+
+- [Seven reasons to learn Vue.js in 2019](https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o)
+
+- [Filters](https://vuejs.org/v2/guide/filters.html)
+
+- [Mixins](https://vuejs.org/v2/guide/mixins.html)
+
 # VsCode
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)
@@ -85,6 +93,7 @@
 # Vim
 
 - [interactive vim tutrial](https://www.openvim.com/)
+
 - [The Ultimate NeoVim Config for Colemak Users](https://github.com/theniceboy/nvim)
 
 # Prettier

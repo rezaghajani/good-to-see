@@ -42,6 +42,7 @@
 - [ابزارها یا مفاهیم؟](https://vrgl.ir/dZfoi)
 - [راز‌های استخدام و درآمد برنامه نویسی (قسمت 1)](https://vrgl.ir/FAURo)
 - [تفاوت برنامەنویس ها و کدنویس ها](https://virgool.io/@alfaar7/programmers-vs-coders-exth5jjzuxae)
+- [تجاربی که هر برنامه نویس مبتدی باید بداند](https://vrgl.ir/qt22f)
 
 # فلاتر
 
