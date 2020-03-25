@@ -15,6 +15,7 @@
 - [VsCode](#vscode)
 - [Vim](#Vim)
 - [Prettier](#Prettier)
+- [Camtasia](#Camtasia)
 
 # Security
 
@@ -92,10 +93,22 @@
 
 # Vim
 
-- [interactive vim tutrial](https://www.openvim.com/)
+- [interactive vim tutorial](https://www.openvim.com/)
 
 - [The Ultimate NeoVim Config for Colemak Users](https://github.com/theniceboy/nvim)
 
 # Prettier
 
 - [Code Formatting with Prettier in Visual Studio Code](https://scotch.io/tutorials/code-formatting-with-prettier-in-visual-studio-code)
+
+# Camtasia
+
+- [Camtasia: Record Edit Share (2019)](https://www.youtube.com/watch?v=UbLbRbWJqqQ&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z)
+
+- [Camtasia: Video Editing Basics (2019)](https://www.youtube.com/watch?v=uc-73uQfdGA&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=2)
+
+- [Camtasia: Working with the Canvas (2019)](https://www.youtube.com/watch?v=1JZxiJ2jx8E&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=3)
+
+- [Camtasia: Editing Audio (2019)](https://www.youtube.com/watch?v=U97Q96pIjAw&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=4)
+
+- [Camtasia: Export & Share (2019)](https://www.youtube.com/watch?v=mMK3zGew1yE)
