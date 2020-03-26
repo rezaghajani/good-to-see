@@ -112,3 +112,13 @@
 - [Camtasia: Editing Audio (2019)](https://www.youtube.com/watch?v=U97Q96pIjAw&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=4)
 
 - [Camtasia: Export & Share (2019)](https://www.youtube.com/watch?v=mMK3zGew1yE)
+
+- [Camtasia: PowerPoint Add-In Toolbar (Windows)](https://www.youtube.com/watch?v=jxYQou07q7c&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=6)
+
+- [Camtasia: Recording Your iOS Device (Mac)](https://www.youtube.com/watch?v=0YbDp_0wlIA&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=7)
+
+- [Camtasia: Behaviors](https://www.youtube.com/watch?v=y04IXa3F4KM&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=8)
+
+- [Camtasia: Quizzing & Surveys](https://www.youtube.com/watch?v=iIVovCAI-5A&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=9)
+
+- [Camtasia: Editing In Depth 1](https://www.youtube.com/watch?v=IWeCCwPBB9s&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=10)
