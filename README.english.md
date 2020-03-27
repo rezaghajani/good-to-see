@@ -122,3 +122,23 @@
 - [Camtasia: Quizzing & Surveys](https://www.youtube.com/watch?v=iIVovCAI-5A&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=9)
 
 - [Camtasia: Editing In Depth 1](https://www.youtube.com/watch?v=IWeCCwPBB9s&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=10)
+
+- [Camtasia: Editing In Depth 2](https://www.youtube.com/watch?v=_rdj2M3mr6I&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=11)
+
+- [Camtasia: Import PowerPoint Slides](https://www.youtube.com/watch?v=Z7xS-cRceho&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=12)
+
+- [Camtasia: Animations In-Depth](https://www.youtube.com/watch?v=0O3WSJv60vI&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=13)
+
+- [Camtasia: How to Make Interactive Hotspots in a Video](https://www.youtube.com/watch?v=HQxcFqEUwgw&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=14)
+
+- [Camtasia: Getting Crisp, Clear Screen Video](https://www.youtube.com/watch?v=bFuaQQ-pr8I&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=15)
+
+- [Camtasia: Ripple Move & Extend Frame](https://www.youtube.com/watch?v=U4I1WsDePq8&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=16)
+
+- [Camtasia: Remove a Color (Green Screen)](https://www.youtube.com/watch?v=MoPUwZX688A&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=17)
+
+- [Camtasia: Speed up Video Creation with the Camtasia Library](https://www.youtube.com/watch?v=IB-6JovOiC0&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=18)
+
+- [Camtasia: Manually Add Captions to a Video (Windows)](https://www.youtube.com/watch?v=0uOujsjZheE&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=19)
+
+- [Camtasia: Annotations, Callouts & Custom Visuals (2019)](https://www.youtube.com/watch?v=5cX8G4Lr2Ig&list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z&index=20)
