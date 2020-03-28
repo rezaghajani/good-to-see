@@ -29,6 +29,11 @@
 - [ان‌پی‌ام(NPM) در +1500 کلمه!](https://vrgl.ir/6TrsV)
 - [چندتا لایبرری جاوااسکریپت که احتمالا نیاز خواهید داشت! (1)](https://vrgl.ir/AyG5t)
 - [بوکمارک‌لِت چیه و چطور ساخته میشه؟](https://vrgl.ir/aDs5G)
+- [oop js- function constructor](https://vrgl.ir/caxt5)
+- [پیاده سازی Class ها در JavaScript - قسمت اول](https://vrgl.ir/pkzTd)
+- [چند زبانه کردن سایت با Javascript](https://vrgl.ir/wNWrm)
+- [پشت‌ پرده جاوااسکریپت- بخش 1](https://vrgl.ir/rKtMx)
+- [پشت‌ پرده جاوااسکریپت- بخش 2](https://vrgl.ir/JHH18)
 
 # پایتون
 
@@ -38,7 +43,6 @@
 - [5 لایبرری پایتون که احتمالا نیاز داشتید! (1)](https://vrgl.ir/EwxTn)
 - [چطوری یه برنامه گرافیکی در پایتون درست کنیم؟!](http://vrgl.ir/SmdJf)
 - [چطور یک برنامه گرافیکی در پایتون درست کنیم؟!(بخش دوم)](http://vrgl.ir/M2uli)
-
 
 # مسیربرنامه‌نویسی
 
