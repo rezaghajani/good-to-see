@@ -4,6 +4,7 @@
 
 # Programming
 
+- [Basics](#Basics)
 - [JavaScript](#JavaScript)
 - [Node.js](#Nodejs)
 - [Django](#Django)
@@ -20,6 +21,12 @@
 # Security
 
 - [Security tips for APIs & MongoDB](https://dev.to/mohanarpit/security-tips-for-apis-mongodb-3elj)
+
+# Basics
+
+- [Variable](https://www.computerhope.com/jargon/v/variable.htm)
+- [variable](https://whatis.techtarget.com/definition/variable)
+- [Function](https://www.computerhope.com/jargon/f/function.htm)
 
 # JavaScript
 
