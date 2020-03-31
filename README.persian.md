@@ -81,4 +81,7 @@
 - [چطور خوب بنویسیم؟](https://www.bishtarazyek.com/%DA%86%D8%B7%D9%88%D8%B1-%D8%AE%D9%88%D8%A8-%D8%A8%D9%86%D9%88%DB%8C%D8%B3%DB%8C%D9%85%D8%9F)
 - [تمرینات نویسندگی ؛ 10 روش برای بیدار کردن نویسنده درون!](https://www.bishtarazyek.com/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C)
 - [مقاله نوشتن در بیست دقیقه؛ چطور در بیست دقیقه مقاله بنویسیم؟](https://www.bishtarazyek.com/%D9%85%D9%82%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%D8%AF%D8%B1-%D8%A8%DB%8C%D8%B3%D8%AA-%D8%AF%D9%82%DB%8C%D9%82%D9%87)
-  </div>
+- [محتوای همیشه سبز: حرفی که تاریخ انقضا ندارد!](https://www.novin.com/blog/what-is-green-content/)
+- [تولید محتوا چیست؟ یک توضیح ساده برای همه](https://www.novin.com/blog/what-is-content-creation/)
+- [تولید محتوای اختصاصی را با هم یاد بگیریم (تا همیشه خاص باشیم)](https://writena.com/%d8%aa%d9%88%d9%84%db%8c%d8%af-%d9%85%d8%ad%d8%aa%d9%88%d8%a7%db%8c-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/)
+    </div>
