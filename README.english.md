@@ -48,6 +48,8 @@
 
 - [How to use console in node.js](https://scotch.io/tutorials/how-to-use-console-in-nodejs)
 
+- [JavaScript Best Practices for Writing Robust and Performant Code](https://dev.to/aumayeung/javascript-best-practices-for-writing-robust-and-performant-code-5g0o)
+
 # Nodejs
 
 - [Everything you need to know about Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)

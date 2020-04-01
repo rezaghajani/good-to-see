@@ -35,6 +35,7 @@
 - [چند زبانه کردن سایت با Javascript](https://vrgl.ir/wNWrm)
 - [پشت‌ پرده جاوااسکریپت- بخش 1](https://vrgl.ir/rKtMx)
 - [پشت‌ پرده جاوااسکریپت- بخش 2](https://vrgl.ir/JHH18)
+- [آشنایی با new Function و With](https://vrgl.ir/8AqO3)
 
 # پایتون
 
@@ -51,6 +52,7 @@
 - [راز‌های استخدام و درآمد برنامه نویسی (قسمت 1)](https://vrgl.ir/FAURo)
 - [تفاوت برنامەنویس ها و کدنویس ها](https://virgool.io/@alfaar7/programmers-vs-coders-exth5jjzuxae)
 - [تجاربی که هر برنامه نویس مبتدی باید بداند](https://vrgl.ir/qt22f)
+- [نکات کدنویسی خوانا در تمام زبان های برنامه نویسی](https://vrgl.ir/WJP68)
 
 # فلاتر
 
