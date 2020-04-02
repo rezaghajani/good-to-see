@@ -56,6 +56,8 @@
 
 - [How YOU can learn Node.js I/O, files and paths](https://dev.to/itnext/how-you-can-learn-node-js-i-o-files-and-paths-2473)
 
+- [Bulletproof node.js project architecture 🛡️](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
+
 # Django
 
 - [FreeCodeCamp Django crash course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
