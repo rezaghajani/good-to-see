@@ -58,6 +58,10 @@
 
 - [Bulletproof node.js project architecture 🛡️](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
 
+- [Understanding the basics of Socket.io](https://dev.to/uf4no/understanding-the-basics-of-socket-io-3a0e)
+
+- [Newbie guide: socket.IO](https://dev.to/kauresss/socket-io-guide-for-newbies-5hdm)
+
 # Django
 
 - [FreeCodeCamp Django crash course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
