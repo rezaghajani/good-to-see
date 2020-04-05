@@ -93,4 +93,6 @@
 - [تولید محتوای اختصاصی را با هم یاد بگیریم (تا همیشه خاص باشیم)](https://writena.com/%d8%aa%d9%88%d9%84%db%8c%d8%af-%d9%85%d8%ad%d8%aa%d9%88%d8%a7%db%8c-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/)
 - [با چرخه محتوا سرعت خود را چند برابر کنید](https://www.novin.com/blog/content-cycle/)
 - [راهنمای کامل برچسب ها: چگونه سایت خود را به گند نکشیم؟](https://www.novin.com/blog/complete-guide-to-tags/)
+- [خاطره نویسی؛ نکاتی که برای ثبت زندگی‌تان باید بدانید](https://www.chetor.com/58088-%D8%AE%D8%A7%D8%B7%D8%B1%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/)
+- [اصول و قواعد خاطره نویسی](https://mohamadrezateimouri.com/learn-to-memorize/)
     </div>
