@@ -50,6 +50,10 @@
 
 - [JavaScript Best Practices for Writing Robust and Performant Code](https://dev.to/aumayeung/javascript-best-practices-for-writing-robust-and-performant-code-5g0o)
 
+- [15 must-know JavaScript array methods in 2020](https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8)
+
+- [10 JavaScript array methods you should know](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3)
+
 # Nodejs
 
 - [Everything you need to know about Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)
