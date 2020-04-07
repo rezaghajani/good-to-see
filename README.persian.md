@@ -95,4 +95,5 @@
 - [راهنمای کامل برچسب ها: چگونه سایت خود را به گند نکشیم؟](https://www.novin.com/blog/complete-guide-to-tags/)
 - [خاطره نویسی؛ نکاتی که برای ثبت زندگی‌تان باید بدانید](https://www.chetor.com/58088-%D8%AE%D8%A7%D8%B7%D8%B1%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/)
 - [اصول و قواعد خاطره نویسی](https://mohamadrezateimouri.com/learn-to-memorize/)
+- [چطور کتاب بنویسم](https://www.chetor.com/15980-%da%86%d8%b7%d9%88%d8%b1-%da%a9%d8%aa%d8%a7%d8%a8-%d8%a8%d9%86%d9%88%db%8c%d8%b3%db%8c%d9%85/)
     </div>
