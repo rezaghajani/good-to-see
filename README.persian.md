@@ -58,6 +58,7 @@
 - [تفاوت برنامەنویس ها و کدنویس ها](https://virgool.io/@alfaar7/programmers-vs-coders-exth5jjzuxae)
 - [تجاربی که هر برنامه نویس مبتدی باید بداند](https://vrgl.ir/qt22f)
 - [نکات کدنویسی خوانا در تمام زبان های برنامه نویسی](https://vrgl.ir/WJP68)
+- [الگوی MVVM به زبان ساده](http://ditty.ir/posts/mvvm-pattern/XpAPJ)
 
 # فلاتر
 
